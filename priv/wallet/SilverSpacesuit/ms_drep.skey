@@ -1,0 +1,5 @@
+{
+"type": "DRepExtendedSigningKey_ed25519_bip32",
+"description": "MultiSig Delegate Representative Signing Key",
+"cborHex": "588050a4a7c5d108f935dd7c00b808639f7024ce96cb2f27d6c7f1be9e305383a55158f070461d572f77126a141b70ff712cabaadc7937c6e70adc944a26bdb5d4e30083c8930bd429e52e3f80141f1be42cdc025bd1c2f151dc333df87794843428f6a31504e56fd8a4c4d2772c5404d8ff4419f252f53ca19180b1d129fdaad21f"
+}

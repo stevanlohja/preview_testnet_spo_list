@@ -1,0 +1,5 @@
+{
+"type": "DRepExtendedSigningKey_ed25519_bip32",
+"description": "Delegate Representative Signing Key",
+"cborHex": "5880e0f8c3aac63a2a12ecc5b8057da16935699c93a08df8ef10cf69bf4193ab7d587bfcade7464bd194ca98cf9e1c24cc07679ff3aaaec60df6f80bf92e83026eee9a29a1495d550a4169d8eb305d7532f18ceb5a2237f8df79bcf30628a6aae4638a12de58d4c7027f6727033578ab8e10472dad5c064dcfde0f333ca748b71af3"
+}

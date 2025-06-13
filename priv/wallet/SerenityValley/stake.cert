@@ -1,0 +1,5 @@
+{
+    "type": "CertificateConway",
+    "description": "Stake Address Registration Certificate",
+    "cborHex": "83078200581c24efcac8f085c43e0293bca1ac3b827d948684d4ee67696a95198a0f1a001e8480"
+}

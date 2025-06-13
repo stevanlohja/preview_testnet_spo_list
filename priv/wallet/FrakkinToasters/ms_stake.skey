@@ -1,0 +1,5 @@
+{
+"type": "StakeExtendedSigningKeyShelley_ed25519_bip32",
+"description": "MultiSig Stake Signing Key",
+"cborHex": "588028bcdebc6398875eeff03a6a16afac7ab614d2accb7d06ce88cc3233636163494cc820aeecdd302742efeb7dfb3449f1156075f057fa2c3a46315c38288e21d6d0e74eb60c227a5a5ce95f0070c261fa35d5aab50362e9e03f60d76c84ce9dcb280fb58131bfa81b13fb9d845bc2dd28ad05f14fa641edb96ca9f7a9400e3f12"
+}

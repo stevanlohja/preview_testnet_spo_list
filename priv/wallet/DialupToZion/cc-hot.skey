@@ -1,0 +1,5 @@
+{
+"type": "ConstitutionalCommitteeHotExtendedSigningKey_ed25519_bip32",
+"description": "Constitutional Committee Hot Signing Key",
+"cborHex": "5880406c72002d10fca0bf60faed6275e1dd4e1a0396ca875bc0f6c6c2decb2f5c42f0ff019286b7a559e0ce618e09fc86f2881170e13a8d3ba8ae5b80b6f8e3e4d544e6606119443b85e6981c7342d272e48a316540bae34f2f24bbea99cc3a28ea914957c1bba31a982bdd5a15278e3a75a6cf085d8c616521827c47423fb0bfaa"
+}

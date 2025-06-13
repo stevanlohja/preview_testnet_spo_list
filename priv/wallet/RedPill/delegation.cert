@@ -1,0 +1,5 @@
+{
+    "type": "CertificateConway",
+    "description": "Stake Delegation Certificate",
+    "cborHex": "83028200581cdf1caef1a2722f9746f3818f29b0e0b8cc2580e8901482e9ba96d2ff581c04237adc85b2df30b6588b71cb35d64be3b31e3a952f7b6b0ab553bf"
+}
